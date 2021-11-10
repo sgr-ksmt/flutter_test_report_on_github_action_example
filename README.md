@@ -1,16 +1,6 @@
-# example_app
+# Flutter Test report example on GitHub Actions
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|Success|Failure|
+---|---
+[log](https://github.com/sgr-ksmt/flutter_test_report_on_github_action_example/pull/1/checks?check_run_id=4167417578)|[log](https://github.com/sgr-ksmt/flutter_test_report_on_github_action_example/pull/2/checks?check_run_id=4167461917)
+<img width="881" alt="Screen Shot 2021-11-11 at 0 50 33" src="https://user-images.githubusercontent.com/9350581/141146103-4f9c4cba-86b6-4415-8972-5235ce8e1920.png">|<img width="1016" alt="Screen Shot 2021-11-11 at 0 50 48" src="https://user-images.githubusercontent.com/9350581/141146189-795dca15-f83d-48b4-9939-66788d677538.png">
